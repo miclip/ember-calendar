@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"oc",
+				"occurrence"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"or",
+				"occurrence"
+			],
+			[
+				"se",
+				"selections"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"rate",
+				"rateId"
+			],
+			[
+				"o",
+				"organizationId"
+			],
+			[
+				"org",
+				"organization"
+			],
+			[
+				"tra",
+				"trainer"
+			],
+			[
+				"car",
+				"card-entity"
+			],
+			[
+				"web",
+				"webkit-flex"
+			],
+			[
+				"email",
+				"emailSent"
+			],
+			[
+				"ema",
+				"emailSent"
+			],
+			[
+				"trainer",
+				"trainers"
+			],
+			[
+				"fac",
+				"FacilityBase"
+			],
+			[
+				"ad",
+				"address"
+			],
+			[
+				"user",
+				"getUserOrganizations"
+			],
+			[
+				"validat",
+				"validationModel"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"nav",
+				"nav-sidebar"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"Or",
+				"organizations"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tr",
+				"transitionToIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntax: js",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syntax:han",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"set syntax:h",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"set syntax: h",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syb",
+				"Set Syntax: EmberScript"
+			],
+			[
+				"set syntax: html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/Ember/ember-calendar/ember-calendar",
+		"/C/Projects/Ember/igniteit/app/styles/_custom-variables.scss",
+		"/C/Projects/Ember/igniteit/app/styles/ember-calendar/components/_as-calendar.scss",
+		"/C/Projects/Ember/igniteit/app/styles/ember-calendar/components/as-calendar/_header.scss",
+		"/C/Projects/Ember/igniteit/app/styles/ember-calendar/components/as-calendar/_timetable.scss",
+		"/C/Projects/Ember/igniteit/app/styles/ember-calendar/main.scss",
+		"/C/Projects/Ember/igniteit/app/styles/ember-calendar/components/as-calendar/_time-zone-select.scss",
+		"/C/Projects/Ember/igniteit/bower_components/bootstrap/scss/_dropdown.scss",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/sessions/index.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/sessions.hbs",
+		"/C/Projects/Ember/igniteit/app/styles/ember-calendar/components/as-calendar/_occurrence.scss",
+		"/C/Projects/Ember/igniteit/app/styles/ember-calendar/components/as-calendar/timetable/_occurrence.scss",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/sessions.js",
+		"/C/Projects/Ember/igniteit/app/styles/ember-calendar/components/as-calendar/_time-zone-option.scss",
+		"/C/Projects/Ember/igniteit/node_modules/ember-calendar/package.json",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/sessions/base.js",
+		"/C/Projects/Ember/igniteit/app/models/training-session.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/sessions/add.js",
+		"/C/Projects/Ember/igniteit/app/templates/components/session-edit.hbs",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/sessions/index.js",
+		"/C/Projects/Ember/igniteit/app/models/user.js",
+		"/C/Projects/Ember/igniteit/app/models/organization.js",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/sessions/add.hbs",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/sessions/add.js",
+		"/C/Projects/Ember/igniteit/app/templates/components/session-edit.js",
+		"/C/Projects/Ember/igniteit/app/models/rate.js",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/rates/index.hbs",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/rates/base.js",
+		"/C/Projects/Ember/igniteit/app/models/package.js",
+		"/C/Projects/Ember/igniteit/app/models/facility.js",
+		"/C/Projects/Ember/igniteit/app/models/client.js",
+		"/C/Projects/Ember/igniteit/app/helpers/organizationname.js",
+		"/C/Projects/Ember/igniteit/app/helpers/organizationName.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/rates/index.js",
+		"/C/Projects/Ember/igniteit/app/components/validated-group-base.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/packages/add.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/rates/edit.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/rates/add.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/packages/edit.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/packages.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/packages/base.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/packages/add.js",
+		"/C/Projects/Ember/igniteit/app/templates/components/package-edit.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/packages/add.hbs",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/packages.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/packages/index.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/packages/edit.js",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/packages/edit.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/packages/index.hbs",
+		"/C/Projects/Ember/igniteit/app/routes/authenticated-user.js",
+		"/C/Projects/Ember/igniteit/app/routes/application.js",
+		"/C/Projects/Ember/igniteit/app/components/img-liquid.js",
+		"/C/Projects/Ember/igniteit/app/router.js",
+		"/C/Projects/Ember/igniteit/app/templates/components/package.hbs",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/rates/add.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/rates/index.js",
+		"/C/Projects/Ember/igniteit/app/templates/components/rate-edit.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/rates/add.hbs",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/rates.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/rates.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/rates/edit.js",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/rates/edit.hbs",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/trainers/add.js",
+		"/C/Projects/Ember/igniteit/app/styles/_igniteit.scss",
+		"/C/Projects/Ember/igniteit/app/models/session.js",
+		"/C/Projects/Ember/igniteit/app/templates/components/client-edit.hbs",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/clients/base.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/clients/edit.js",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/clients/edit.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/clients/add.hbs",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/clients/edit.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/trainers/edit.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/clients/add.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/clients.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/clients/index.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/clients.js",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/clients/index.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/trainers/index.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/clients.hbs",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/clients/add.js",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/invites/index.hbs",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/invites/edit.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/invites.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/trainers/edit.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/invites.js",
+		"/C/Projects/Ember/igniteit/app/models/invite.js",
+		"/C/Projects/Ember/igniteit/app/templates/confirm-delete.hbs",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/trainers.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/invites/index.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/facilities/index.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/trainers/add.js",
+		"/C/Projects/Ember/igniteit/app/templates/confirm-resend.hbs",
+		"/C/Projects/Ember/igniteit/bower_components/bootstrap/scss/_button-group.scss",
+		"/C/Projects/Ember/igniteit/bower_components/bootstrap/scss/_buttons.scss",
+		"/C/Projects/Ember/igniteit/bower_components/bootstrap/scss/_variables.scss",
+		"/C/Projects/Ember/igniteit/app/templates/components/trainer-edit.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/components/address-edit.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/trainers/add.hbs",
+		"/C/Projects/Ember/igniteit/app/components/trainer-edit.js",
+		"/C/Projects/Ember/igniteit/app/helpers/increment.js",
+		"/C/Projects/Ember/igniteit/config/environment.js",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/invites.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/components/validated-input-group.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/components/validated-select2-group.hbs",
+		"/C/Projects/Ember/igniteit/ember-cli-build.js",
+		"/C/Projects/Ember/igniteit/app/models/trainer.js",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/trainers/edit.hbs",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/trainers.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/trainers/index.js",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/trainers.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/rates.hbs",
+		"/C/Projects/Ember/igniteit/app/templates/dashboard/packages.hbs",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/facilities/base.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/trainers/base.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/facilities/add.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard.js",
+		"/C/Projects/Ember/igniteit/app/routes/account/manage.js",
+		"/C/Projects/Ember/igniteit/app/routes/account/delete.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/facilities.js",
+		"/C/Projects/Ember/igniteit/app/routes/dashboard/facilities.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/organizations/base.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/facilities/add.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/facilities/edit.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/organizations/add.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/organizations/edit.js",
+		"/C/Projects/Ember/igniteit/app/models/base.js",
+		"/C/Projects/Ember/igniteit/app/controllers/dashboard/facilities/facility-base.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"input-padding-y-xs",
+			"line-height",
+			"org",
+			"sidebar"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"trainer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true
+}

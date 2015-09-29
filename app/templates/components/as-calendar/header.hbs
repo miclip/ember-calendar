@@ -3,19 +3,11 @@
 {{yield this}}
 
 <nav>
-  <ul>
-    <li>
-      <button class="previous-week" {{action "navigateWeek" -1}}></button>
-    </li>
-
-    <li>
-      <button disabled={{isInCurrentWeek}}
+  <div class="week-button-group" role="group">
+    <button class="previous-week" {{action "navigateWeek" -1}}></button>
+     <button disabled={{isInCurrentWeek}}
         class="current-week"
         {{action "goToCurrentWeek"}}>This Week</button>
-    </li>
-
-    <li>
       <button class="next-week" {{action "navigateWeek" 1}}></button>
-    </li>
-  </ul>
+  </div>
 </nav>
